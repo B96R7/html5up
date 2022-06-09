@@ -3931,3 +3931,7 @@ input, select, textarea {
 .image {
 	flex-basis: 40%;
 }
+
+.features i {
+	font-size: 60px;
+}
