@@ -3911,28 +3911,30 @@ input, select, textarea {
 #website {
 	height: 400px;
 	width: 40%;
+	margin-top: 50px;
+	margin-left: 20px;
 }
 
 #calc {
 	height: 350px;
 	flex-basis: 20%;
-	margin-top: 20px;
-	margin-left: 100px;
-}
-
-#calc-inner {
+	margin-top: 50px;
 	margin-left: 150px;
 }
 
+#calc-inner {
+	margin-left: 170px;
+}
+
 #nasa {
-	margin-top: 20px;
-	margin-left: 50px;
+	margin-top: 70px;
+	margin-left: 140px;
 	height: 300px;
 	flex-basis: 15%;
 }
 
 #nasa-inner {
-	margin-left: 120px;
+	margin-left: 140px;
 }
 
 .content {
